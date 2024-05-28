@@ -1,0 +1,2 @@
+# gonime
+Streaming Anime
